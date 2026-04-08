@@ -9,14 +9,14 @@ A clean and minimal academic CV written in LaTeX.
 - suitable for research, applications, and personal websites
 
 ## 🛠️ Usage
-Compile the file with LaTeX:
+Compile the document with LaTeX:
 
 ```bash
 pdflatex main.tex
 ```
 
 ## 📌 Notes
-This CV is designed to stay simple, readable, and easy to maintain.
+This project is intended as a simple and readable academic CV template that is easy to maintain and customize.
 
 ## 📚 License
-Feel free to use and adapt it for your own academic CV.
+This project is licensed under the MIT License.
